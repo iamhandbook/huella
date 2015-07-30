@@ -46,14 +46,14 @@
                 ">IAM PathFinder</text>
     </a>
 
-<!--<a xlink:href="https://sites.google.com/a/roche.com/identity-access-management-v3-0/index-v2/i-am-member/generic-accounts-and-entitlements" target="_top">
-                <text x="-100" y="750" style="font-family: Imago;
+<a xlink:href="https://sites.google.com/a/roche.com/identity-access-management-v3-0/index-v2/i-am-member/component-licensing" target="_top">
+                <text x="-130" y="750" style="font-family: Imago;
                  font-size : 38;
                  stroke : #2D8FFF;
                  fill : #000000;
-                ">Generic Accounts</text> 	
+                ">Component Licensing</text> 	
 </a>
--->
+
 
 <a xlink:href="https://sites.google.com/a/roche.com/identity-access-management-v3-0/index-v2/i-am-member/ito-achievements" target="_top">
                 <text x="500" y="150" style="font-family: Imago;
